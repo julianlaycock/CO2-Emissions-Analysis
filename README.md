@@ -1,2 +1,2 @@
 # CO2-Emissions-Analysis
-CO₂ per capita analysis for five major economies using Python and pandas
+I created a CO₂ per capita analysis for five major economies using Python and pandas.
