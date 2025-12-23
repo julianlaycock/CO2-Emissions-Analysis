@@ -26,5 +26,3 @@ Australia, China, Germany, India, and the United States.
 
 Julian Laycock
 
-Julian — analytics and legal/economic background, focusing on clear, reusable analysis workflows.
-
