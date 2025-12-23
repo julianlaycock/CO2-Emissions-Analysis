@@ -13,7 +13,8 @@ Australia, China, Germany, India, and the United States.
 
 ## Files
 
-- `CO2_analysis.ipynb` — main analysis notebook (code + visuals + narrative)
+- `1_CO2 Emissions Analysis_Report.ipynb` — report notebook
+- `2_CO2 Emissions Analysis_Code.ipynb` - code notebook
 - `co2_emissions.csv` — source dataset used in the notebook
 
 ## How to use
