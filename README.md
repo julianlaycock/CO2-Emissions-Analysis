@@ -19,8 +19,8 @@ Australia, China, Germany, India, and the United States.
 
 ## How to use
 
-1. Open `CO2_analysis.ipynb` directly in GitHub to read the analysis.
-2. Download the notebook if you want to run the code locally in Jupyter.
+1. Open `1_CO2 Emissions Analysis_Report.ipynb` directly in GitHub to read the report.
+2. Download `1_CO2 Emissions Analysis_Report.ipynb` and `2_CO2 Emissions Analysis_Code.ipynb` if you want to run the code locally in Jupyter.
 
 ## Author
 
